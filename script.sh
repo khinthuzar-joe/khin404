@@ -28,7 +28,7 @@ echo "
 <h4><font color='cyan'>Telegram >> https://t.me/Yoeyar007
 </font></h4>
 
-<h4><font color='blue'>Telegram >> #Crd404
+<h4><font color='blue'>🤩😎😍
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
