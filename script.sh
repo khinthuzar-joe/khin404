@@ -46,7 +46,7 @@ echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \              
 echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
 echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
 echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${green}Contact the developer https://t.me/Yoeyar007 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
 echo -e "${cyan}i am Yoe 😎 ${plain}"
